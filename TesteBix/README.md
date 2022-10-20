@@ -3,5 +3,5 @@ Esse projeto de PowerBi foi um teste de conhecimento técnico para uma vaga de A
 
 ****
 Aqui você irá encontrar:
-* Arquico PowerBI
+* Arquivo PowerBI
 * PDF do visual final do projeto
